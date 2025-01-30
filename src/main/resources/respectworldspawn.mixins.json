@@ -3,7 +3,8 @@
   "package": "com.rikaisan.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "RespawnMixin"
+    "ServerPlayerEntityMixin",
+    "TeleportTargetMixin"
   ],
   "injectors": {
     "defaultRequire": 1

@@ -18,5 +18,6 @@ public class RespectWorldSpawn implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		LOGGER.info("Respecting YOUR spawn logic since 2025!");
+		LOGGER.info("Obligatory Meow!");
 	}
 }
